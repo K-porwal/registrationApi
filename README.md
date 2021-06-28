@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the backend repo for the app Student Registration System. \
+Database used is PostgreSQL.
+The application supports the following operations -
+Adding a Student Information
+Deleting a Student Information
+Editing a Student Information using Id
+Retrieving a Student Information using Id
 
-Things you may want to cover:
+Steps to run -
+1. Clone and Run Frontend repo code (https://github.com/K-porwal/student-registration-system) (for eg on port 3000) \
+2. Clone and Run Backend repo code by running Rails server on port 3001 using command -\ rails server -p 3001 \
 
-* Ruby version
+You are all set !
 
-* System dependencies
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
